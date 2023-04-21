@@ -287,4 +287,4 @@ end
 Character.Parent = FakeCharacter
 CFrameCheck = false
 Workspace.CurrentCamera.CameraSubject = FakeCharacter:FindFirstChildOfClass("Humanoid")
-AntiSleepBoost = 1.35
+AntiSleepBoost = 1.05
