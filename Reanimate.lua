@@ -6,7 +6,7 @@ Global.Gelatek_Reanimate_Settings = {
     ['FreeMode'] = false,
     ['CSCollisionsOff'] = false
 }
-setfpscap(65)
+
 local AntiSleepBoost = 10
 local Global = (getgenv and getgenv()) or getfenv(0)
 local Cos, Sin, Rad, Time = math.cos, math.sin, math.rad, 0
