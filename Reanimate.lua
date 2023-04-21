@@ -135,11 +135,11 @@ LocalPlayer.Character = FakeCharacter
 RootPart.CFrame = CFrame.new(0,Workspace.FallenPartsDestroyHeight + 300,SimRadiusOffset*2)
 FakeCharacter.HumanoidRootPart.CFrame = CFrame.new(0,10,SimRadiusOffset)
 FakeCharacter.HumanoidRootPart.Anchored = true
-Character.Head.Anchored = true
+Character.HumanoidRootPart.Anchored = true
 wait(Players.RespawnTime + 0.35)
 Character:FindFirstChild("Animate"):Destroy()
-Character.Head.Anchored = false
-RootPart.Velocity = Vector3.new(3000,0,0)
+Character.HumanoidRootPart.Anchored = false
+RootPart.Velocity = Vector3.new(0,0,0)
 Humanoid:ChangeState(15)
 for i,v in pairs(Humanoid:GetPlayingAnimationTracks()) do
     v:Stop()
