@@ -1,4 +1,5 @@
 # Start
+- If you want to support me to get a dream phone (that costs 175$) because I was promised by sukma devs that I would get the money and I got ignored, https://www.paypal.me/bigbootylatinastw 
 - Hello everyone, This is Gelatek, I am here to post the RCD-Bypass reanimation because of how I was simply ignored by sukma devs for finding out about a good method. Because of that I will just simply leak my version of the reanimate.
 - Note this reanimation is not the latest, but I will be updating "Gelatek Hub" later with slightly better claims.
 - Paid Hats:
